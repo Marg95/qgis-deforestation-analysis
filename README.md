@@ -19,3 +19,15 @@ According to the information analyzed, the Moreno department has 29 census tract
 Although National Law 26,331 represents a significant advance in environmental legislation (Ginzburg and Torrella, 2022), it is essential to strengthen monitoring, controls, and sanctions for non-compliance. The results suggest that there is a relationship between conditions of social inequality and the intensification of natural resource exploitation, which translates into the loss of large areas of native forests, habitat, and sustenance for local populations and indigenous communities.
 More in-depth analyses are needed that include information on land tenure and foreign capital.  
 
+## Bibliography
+
+− Ginzburg, R., & Torrella, S. (2022). Impacto de la ley nacional de bosques nativos sobre su conservación. Proyección. Estudios Geográficos y de Ordenamiento
+Territorial, 16(31), 127-158.
+− Hansen, M. C., Potapov, P. V., Moore, R., Hancher, M., Turubanova, S. A., Tyukavina, A., Thau, D., Stehman, S. V., Goetz, S. J., Loveland, T. R., Kommareddy, A., Egorov, A., Chini,
+L., Justice, C. O., & Townshend, J. R. G. (2013). High-resolution global maps of 21stcentury forest cover change. Science, 342(15), 850–853.
+− Instituto Geográfico Nacional de la República Argentina. (2018). Cartografía de límites. Proyecto SIG 250.
+− Ministerio de Ambiente y Desarrollo Sostenible (MAyDS). (2017). Ordenamientos territoriales de bosque nativo en el marco de la Ley N° 26.331 de presupuestos
+mínimos de protección ambiental de los bosques nativos. Ministerio de Ambiente y Desarrollo Sostenible.
+− Ministerio de Ambiente y Desarrollo Sostenible (MAyDS). (2019). Ordenamientos territoriales de bosque nativo en el marco de la Ley N° 26.331 de presupuestos
+mínimos de protección ambiental de los bosques nativos. Ministerio de Ambiente y Desarrollo Sostenible.
+
